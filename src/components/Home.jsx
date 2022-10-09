@@ -12,7 +12,7 @@ const Home = () => {
             I'm a Software Developer
           </h2>
           <p className="text-gray-500 py-5 max-w-md">
-          A programmer , a coder and also a part time developer . I have participated in many hackathon events and have also worked on real-time projects. Looking forward to improve my knowledge and skills in an environment of enthusiastic and passionate people.A looming Ethical Hacker .
+          A budding software engineer who is familiar with software engineering procedures like testing, coding, code reviews, and code comments. strong client communication skills and the capacity to articulate concepts effectively.
           </p>
           <div>
             <Link to="portfolio"
